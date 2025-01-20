@@ -21,3 +21,7 @@ Using my camera set to 1/15, aperture wide open, and flashlight pointing down th
 The peak starts at sample 457 and starts to fall off around sample 560 ish. 103 samples at a rate of 0.5 milliseconds is 51.5 milliseconds.
 
 1/15 is 66.6 milliseconds, so the camera is about 77.3% of the way there.
+
+1/60 has a similar result. 688 - 655 = 33 samples = 16.5 ms, which is pretty much correct.
+
+![screenshot of 1/60](1over60.png)
