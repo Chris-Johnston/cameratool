@@ -1,6 +1,6 @@
 # Camera shutter testing tool
 
-This was an afternoon project to test that the different shutter speeds of my analog camera worked close enough.
+This was an afternoon project to test that the different shutter speeds of my analog camera worked close enough. I don't have an oscilliscope, so I kinda made my own.
 
 The arduino sketch blinks the onboard LED a few times, polls an analog pin at a set sampling rate (0.5 ms), then dumps the contents into the serial monitor as CSV data. I can then paste this into a spreadsheet to look at the results.
 
